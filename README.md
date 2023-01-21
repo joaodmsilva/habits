@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é uma app para ajudar a seguir os seus hábitos.
-
+- [Visite o projeto online] (https://joaodmsilva.github.io/habits/)
 
 ## 🔖 Layout
 
